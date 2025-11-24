@@ -1,7 +1,6 @@
 # Persistent Task Manager (PTM)
 
-The Persistent Task Manager (PTM) is a simple, console-based Java application designed to help users manage their to-do lists effectively. It features persistence through file serialization (`.dat`) for program data and generates a human-readable CSV file (`.csv`) for data inspection.
-
+The Persistent Task Manager (PTM) is a simple, console-based Java program helps users efficiently organize their to-do lists, keeping data between sessions using file serialization with a .dat file. It also creates an easy-to-read CSV file (.csv) for users to view or analyze their tasks outside the program.
 ##  Key Features
 
 * **Task Management (CRUD):** Add, View, Mark Complete, and Delete tasks.
